@@ -1,1 +1,1 @@
-window.location.href = "https://www.example.com";
+window.location.href = "https://mehdi-code-93.github.io/mehdi-rezgui/";
